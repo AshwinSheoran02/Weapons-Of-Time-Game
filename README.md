@@ -9,6 +9,7 @@ https://drive.google.com/file/d/118xn_NHNwnznTsF3EAjwUbL6FxQSEX00/view?usp=shari
 https://drive.google.com/file/d/1tLFTH-ffpL-VZnCCNk2RmyDxx-egw8Yi/view?usp=sharing
 
 ## Here are the game screenshots
+![image](https://github.com/AshwinSheoran02/Weapons-Of-Time-Game/assets/88076253/8f91ca47-e19c-4183-87f6-09eae4a40bb9)
 
 <img width="1280" alt="Screenshot 2023-06-04 221730" src="https://github.com/AshwinSheoran02/Weapons-Of-Time-Game/assets/88393756/a07478b9-db58-4c15-9f70-fcad5631e787">
 
