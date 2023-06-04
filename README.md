@@ -1,5 +1,4 @@
-# Weapons-Of-Time-Game
-Weapons Of Time Game
+# Weapons of Time Metal Mayhem Game
 
 ## Access the Entire project files here 
 
